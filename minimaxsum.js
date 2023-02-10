@@ -12,6 +12,6 @@ function miniMaxSum(arr) {
     maxsum+=newarr[i];
         
     }
-    
+    //print
     console.log(minsum+" "+maxsum)
 }
