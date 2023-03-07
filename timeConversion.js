@@ -13,3 +13,4 @@ function timeConversion(s) {
         hours += 12;
       }
     }
+}
