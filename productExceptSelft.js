@@ -13,6 +13,6 @@ var productExceptSelf = function(nums) {
       output[i] *= rightProduct;
       rightProduct *= nums[i];
     }
-  //
+  ///new c
     return output;
   };
